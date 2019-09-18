@@ -1,0 +1,33 @@
+
+snowman.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snowman
+  rotate: false
+  xy: 1, 1
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: 1
+snowman
+  rotate: false
+  xy: 51, 1
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: 2
+snowman
+  rotate: false
+  xy: 101, 1
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: 3
+snowman
+  rotate: false
+  xy: 151, 1
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: 4
